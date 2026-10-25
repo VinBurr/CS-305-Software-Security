@@ -40,11 +40,7 @@ Useful tools and practices included **Java's `MessageDigest` API** for SHA-256, 
 
 ### 7. What I Would Show Future Employers
 
-I would use the completed report to demonstrate that I can work with an existing Java application, make security-focused changes, configure secure communications, and document both results and remaining risks. The project shows familiarity with cryptographic hashing, certificates, HTTPS, dependency scanning, and technical reporting. Just as importantly, it shows that I can distinguish between successfully implementing a feature and fully resolving an application's security vulnerabilities.
-
-## Scope and Limitations
-
-This was a **course project**, not a production deployment or a completed security audit. The self-signed certificate was used for local development and testing. **AES-256-GCM was discussed as a recommendation in the report, not implemented as an encryption feature in the submitted application.** The dependency findings remain an area for further remediation.
+I plan use the completed report to demonstrate that I can not only work with an existing Java application, but make security-focused changes, configure secure communications, and document both results and remaining risks. The project shows familiarity with cryptographic hashing, certificates, HTTPS, dependency scanning, and technical reporting. Just as importantly, it shows that I can distinguish between successfully implementing a feature and fully resolving an application's security vulnerabilities.
 
 ## AI Assistance Disclosure
 
