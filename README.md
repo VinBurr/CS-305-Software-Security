@@ -12,6 +12,11 @@ My Project Two work focused on generating a **SHA-256 checksum**, configuring **
 
 The report documents the security choices, code changes, application testing, and dependency scan results.
 
+Source Code
+- [Java Spring Boot application](./artemis-financial-app/)
+- [Instructions for running the local HTTPS demo](./artemis-financial-app/RUNNING.md)
+The source code includes the checksum controller, application entry point, HTTPS configuration, Maven project, and the original application-context test. Private keystores, generated build outputs, and machine-specific IDE files are excluded. This is the original course project, with legacy dependencies and outstanding vulnerability findings. This is for demonstration purposes only. 
+
 ## Reflection
 
 ### 1. Client and Software Requirements
